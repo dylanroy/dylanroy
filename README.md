@@ -1,0 +1,14 @@
+# Engineer & Side Project Junkie
+
+Currently works with Dow Jones to deliver innovate products using cutting edge technologies, and entrepreneurial drive. Often leverages big data and cloud technologies to continuously deliver value for customers. I attended the College of Engineering at Iowa State University for his B.S. in Computer Engineering.
+
+I post frequently on on my [personal website](https://dylanroy.com/), and on [medium](https://medium.com/@dylanroy) please join my newletter [here](https://dylanroy.com/signup/).
+
+### Favorite Technologies To Work With
+Scio/Beam, Spark, Docker, BigQuery, CloudBuild, Flask, Airflow
+
+### Currently Exploring
+Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs 
+
+### Stories by Dylan Roy on Medium
+ - [Create Beautiful Architecture Diagrams with Python](https://towardsdatascience.com/create-beautiful-architecture-diagrams-with-python-7792a1485f97?source=rss-b1a89a0af139------2)
