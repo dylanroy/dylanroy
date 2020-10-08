@@ -10,13 +10,15 @@ on:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-
+    strategy:
+      matrix:
+        python-version: ['3.8']
     steps:
-      - name: 🍳 Update README
-      - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
+      - name: 🍽️ Get working copy
+        uses: actions/checkout@master
         with:
-          python-version: '3.8'
+          fetch-depth: 1
+      - name: 🍳 Update README
         run: |
           cd ${GITHUB_WORKSPACE}/src/
           pip install feedparser
