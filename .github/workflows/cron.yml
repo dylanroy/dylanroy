@@ -10,18 +10,20 @@ on:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        python-version: ['3.8']
     steps:
       - name: 🍽️ Get working copy
         uses: actions/checkout@master
         with:
-          fetch-depth: 1
+          fetch-depth: 1                                                                 
+      - name: Set up Python 3.8                               
+        uses: actions/setup-python@v2                               
+        with:                                 
+          python-version: '3.8'                                                   
+      - name: 💿 Install feedparser                               
+        run: pip install feedparser 
       - name: 🍳 Update README
         run: |
           cd ${GITHUB_WORKSPACE}/src/
-          pip install feedparser
           python main.py
       - name: 🚀 Deploy
         run: |
