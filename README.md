@@ -4,6 +4,8 @@ Currently works with Dow Jones to deliver innovate products using cutting edge t
 
 Right now exploring Europe as I am currently living in Barcelona as an Expat.
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/dylankroy?label=Follow&style=social)](https://twitter.com/intent/follow?screen_name=dylankroy&tw_p=followbutton)
+
 ### Things I like to geek out on
  - Coding & Side Projects
  - Traveling & the gear involved
