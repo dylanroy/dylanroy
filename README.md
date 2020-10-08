@@ -1,6 +1,15 @@
 # Engineer & Side Project Junkie
 
-Currently works with Dow Jones to deliver innovate products using cutting edge technologies, and entrepreneurial drive. Often leverages big data and cloud technologies to continuously deliver value for customers. I attended the College of Engineering at Iowa State University for his B.S. in Computer Engineering.
+Currently works with Dow Jones to deliver innovate products using cutting edge technologies, and entrepreneurial drive. Often leverages big data and cloud technologies to continuously deliver value for customers.  
+
+Right now exploring Europe as I am currently living in Barcelona as an Expat.
+
+### Things I like to geek out on
+ - Coding & Side Projects
+ - Traveling & the gear involved
+ - Credit Cards
+ - Cycling
+ - Mead Making & Craft Beers
 
 I post frequently on on my [personal website](https://dylanroy.com/), and on [medium](https://medium.com/@dylanroy) please join my newletter [here](https://dylanroy.com/signup/).
 
