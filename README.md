@@ -1,6 +1,6 @@
 # Engineer & Side Project Junkie
 
-Currently works with Dow Jones to deliver innovate products using cutting edge technologies, and entrepreneurial drive. Often leverages big data and cloud technologies to continuously deliver value for customers.  
+I currently work with Dow Jones to deliver innovate products leveraging cutting edge technologies, and my entrepreneurial drive. I often get to work with big data and cloud technologies to continuously deliver value for customers.  
 
 Right now exploring Europe as I am currently living in Barcelona as an Expat.
 
