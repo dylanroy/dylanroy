@@ -23,4 +23,4 @@ rss_title = "### Stories by Dylan Roy on Medium" # Anchor for where to append po
 readme = Path('../README.md').read_text()
 updated_readme = update_readme_medium_posts("https://medium.com/feed/@dylanroy", readme, rss_title)
 with open('../README.md', "w+") as f:
-    f.write(updated_readme + update_footer)
+    f.write(updated_readme + update_footer())
