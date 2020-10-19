@@ -26,12 +26,13 @@ Scio/Beam, Spark, Docker, BigQuery, CloudBuild, Flask, Airflow
 Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs 
 
 ### Stories by Dylan Roy on Medium
+ - [Auto-Updating Your Github  Profile With Python](https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168?source=rss-b1a89a0af139------2)
  - [Hum to Search: A Search Engine For Earworms](https://medium.com/dylanroy/hum-to-search-a-search-engine-for-earworms-ac430aa069c?source=rss-b1a89a0af139------2)
  - [Simple Versioned Datasets With Github Actions](https://towardsdatascience.com/simple-versioned-datasets-with-github-actions-bd7adb37f04b?source=rss-b1a89a0af139------2)
  - [Create Beautiful Architecture Diagrams with Python](https://towardsdatascience.com/create-beautiful-architecture-diagrams-with-python-7792a1485f97?source=rss-b1a89a0af139------2)
  - [A Journey to Self Improvement](https://medium.com/@dylanroy/a-journey-to-self-improvement-b0f333e82110?source=rss-b1a89a0af139------2)<hr>
 <div align="center">
-README.md last auto generated Mon Oct 19 07:24:19 2020
+README.md last auto generated Mon Oct 19 21:58:26 2020
 <br>
-<a href="https://medium.com/@dylanroy" target="_blank">Learn to automate you own README here!</a>
+<a href="https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168" target="_blank">Learn to automate you own README here!</a>
 </div>
