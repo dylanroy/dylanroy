@@ -33,7 +33,7 @@ Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs
  - [Create Beautiful Architecture Diagrams with Python](https://towardsdatascience.com/create-beautiful-architecture-diagrams-with-python-7792a1485f97?source=rss-b1a89a0af139------2)
  - [A Journey to Self Improvement](https://medium.com/@dylanroy/a-journey-to-self-improvement-b0f333e82110?source=rss-b1a89a0af139------2)<hr>
 <div align="center">
-README.md last auto generated Tue Nov 10 06:14:35 2020
+README.md last auto generated Wed Nov 11 06:18:54 2020
 <br>
 <a href="https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168" target="_blank">Learn to automate you own README here!</a>
 </div>
