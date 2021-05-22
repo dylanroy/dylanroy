@@ -26,6 +26,7 @@ Scio/Beam, Spark, Docker, BigQuery, CloudBuild, Flask, Airflow
 Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs 
 
 ### Stories by Dylan Roy on Medium
+ - [5 Tasks To Automate With Python](https://medium.com/robotacademy/5-tasks-to-automate-with-python-e7146996f3?source=rss-b1a89a0af139------2)
  - [Easily Make Youtube Compilations Using Python](https://medium.com/robotacademy/easily-make-youtube-compilations-using-python-6e07ae26a0f4?source=rss-b1a89a0af139------2)
  - [Add  A New Dimension To Your Photos Using Python](https://medium.com/robotacademy/add-a-new-dimension-to-your-photos-using-python-4baf7a0a607a?source=rss-b1a89a0af139------2)
  - [Essential Characteristics That Lead to Elite-Performing Engineering Teams](https://medium.com/leading-and-managing/essential-characteristics-that-lead-to-elite-performing-engineering-teams-176268f483a9?source=rss-b1a89a0af139------2)
@@ -35,7 +36,7 @@ Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs
  - [Hum to Search: A Search Engine For Earworms](https://medium.com/dylanroy/hum-to-search-a-search-engine-for-earworms-ac430aa069c?source=rss-b1a89a0af139------2)
  - [Simple Versioned Datasets With Github Actions](https://towardsdatascience.com/simple-versioned-datasets-with-github-actions-bd7adb37f04b?source=rss-b1a89a0af139------2)<hr>
 <div align="center">
-README.md last auto generated Fri May 21 07:12:48 2021
+README.md last auto generated Sat May 22 07:13:46 2021
 <br>
 <a href="https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168" target="_blank">Learn to automate you own README here!</a>
 </div>
