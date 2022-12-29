@@ -26,6 +26,7 @@ Scio/Beam, Spark, Docker, BigQuery, CloudBuild, Flask, Airflow
 Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs 
 
 ### Stories by Dylan Roy on Medium
+ - [Monitor your Mac’s battery life with Python](https://medium.com/robotacademy/monitor-your-macs-battery-life-with-python-8e3b2bb135ab?source=rss-b1a89a0af139------2)
  - [Use OpenAI to Respond to an Email](https://medium.com/robotacademy/use-openai-to-respond-to-an-email-5c1026b642b8?source=rss-b1a89a0af139------2)
  - [5 Tasks To Automate With Python](https://medium.com/robotacademy/5-tasks-to-automate-with-python-e7146996f3?source=rss-b1a89a0af139------2)
  - [Easily Make Youtube Compilations Using Python](https://medium.com/robotacademy/easily-make-youtube-compilations-using-python-6e07ae26a0f4?source=rss-b1a89a0af139------2)
@@ -34,10 +35,9 @@ Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs
  - [How I Accidentally Made $250 In The First Month Building My Personal Brand](https://medium.com/dylanroy/how-i-accidentally-made-250-in-the-first-month-building-my-personal-brand-9ac3f3cf9fc8?source=rss-b1a89a0af139------2)
  - [Deploy To Google Cloud Run Using Github Actions](https://towardsdatascience.com/deploy-to-google-cloud-run-using-github-actions-590ecf957af0?source=rss-b1a89a0af139------2)
  - [Auto-Updating Your Github  Profile With Python](https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168?source=rss-b1a89a0af139------2)
- - [Hum to Search: A Search Engine For Earworms](https://medium.com/dylanroy/hum-to-search-a-search-engine-for-earworms-ac430aa069c?source=rss-b1a89a0af139------2)
- - [Simple Versioned Datasets With Github Actions](https://towardsdatascience.com/simple-versioned-datasets-with-github-actions-bd7adb37f04b?source=rss-b1a89a0af139------2)<hr>
+ - [Hum to Search: A Search Engine For Earworms](https://medium.com/dylanroy/hum-to-search-a-search-engine-for-earworms-ac430aa069c?source=rss-b1a89a0af139------2)<hr>
 <div align="center">
-README.md last auto generated Wed Dec 28 06:09:57 2022
+README.md last auto generated Thu Dec 29 06:09:55 2022
 <br>
 <a href="https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168" target="_blank">Learn to automate you own README here!</a>
 </div>
