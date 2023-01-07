@@ -37,7 +37,7 @@ Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs
  - [Deploy To Google Cloud Run Using Github Actions](https://towardsdatascience.com/deploy-to-google-cloud-run-using-github-actions-590ecf957af0?source=rss-b1a89a0af139------2)
  - [Auto-Updating Your Github  Profile With Python](https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168?source=rss-b1a89a0af139------2)<hr>
 <div align="center">
-README.md last auto generated Fri Jan  6 06:10:04 2023
+README.md last auto generated Sat Jan  7 06:09:49 2023
 <br>
 <a href="https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168" target="_blank">Learn to automate you own README here!</a>
 </div>
