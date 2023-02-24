@@ -37,7 +37,7 @@ Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs
  - [How I Accidentally Made $250 In The First Month Building My Personal Brand](https://medium.com/dylanroy/how-i-accidentally-made-250-in-the-first-month-building-my-personal-brand-9ac3f3cf9fc8?source=rss-b1a89a0af139------2)
  - [Deploy To Google Cloud Run Using Github Actions](https://towardsdatascience.com/deploy-to-google-cloud-run-using-github-actions-590ecf957af0?source=rss-b1a89a0af139------2)<hr>
 <div align="center">
-README.md last auto generated Thu Feb 23 06:10:09 2023
+README.md last auto generated Fri Feb 24 06:10:06 2023
 <br>
 <a href="https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168" target="_blank">Learn to automate you own README here!</a>
 </div>
