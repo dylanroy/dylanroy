@@ -26,6 +26,7 @@ Scio/Beam, Spark, Docker, BigQuery, CloudBuild, Flask, Airflow
 Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs 
 
 ### Stories by Dylan Roy on Medium
+ - [Decoding Data Roles: Analysts, Engineers, and Scientists](https://dylanroy.medium.com/decoding-data-roles-analysts-engineers-and-scientists-f17d83fee4b8?source=rss-b1a89a0af139------2)
  - [Effortlessly Save Your Travel Locations with this iPhone Shortcut](https://medium.com/robotacademy/effortlessly-save-your-travel-locations-with-this-iphone-shortcut-d64127839e3c?source=rss-b1a89a0af139------2)
  - [Organizing Your Downloads Directory with Python](https://medium.com/robotacademy/organizing-your-downloads-directory-with-python-d5b0978b05df?source=rss-b1a89a0af139------2)
  - [Monitor your Mac’s battery life with Python](https://medium.com/robotacademy/monitor-your-macs-battery-life-with-python-8e3b2bb135ab?source=rss-b1a89a0af139------2)
@@ -34,10 +35,9 @@ Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs
  - [Easily Make Youtube Compilations Using Python](https://medium.com/robotacademy/easily-make-youtube-compilations-using-python-6e07ae26a0f4?source=rss-b1a89a0af139------2)
  - [Add  A New Dimension To Your Photos Using Python](https://medium.com/robotacademy/add-a-new-dimension-to-your-photos-using-python-4baf7a0a607a?source=rss-b1a89a0af139------2)
  - [Essential Characteristics That Lead to Elite-Performing Engineering Teams](https://medium.com/leading-and-managing/essential-characteristics-that-lead-to-elite-performing-engineering-teams-176268f483a9?source=rss-b1a89a0af139------2)
- - [How I Accidentally Made $250 In The First Month Building My Personal Brand](https://medium.com/dylanroy/how-i-accidentally-made-250-in-the-first-month-building-my-personal-brand-9ac3f3cf9fc8?source=rss-b1a89a0af139------2)
- - [Deploy To Google Cloud Run Using Github Actions](https://towardsdatascience.com/deploy-to-google-cloud-run-using-github-actions-590ecf957af0?source=rss-b1a89a0af139------2)<hr>
+ - [How I Accidentally Made $250 In The First Month Building My Personal Brand](https://medium.com/dylanroy/how-i-accidentally-made-250-in-the-first-month-building-my-personal-brand-9ac3f3cf9fc8?source=rss-b1a89a0af139------2)<hr>
 <div align="center">
-README.md last auto generated Wed Jul  5 07:10:25 2023
+README.md last auto generated Thu Jul  6 07:10:27 2023
 <br>
 <a href="https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168" target="_blank">Learn to automate you own README here!</a>
 </div>
