@@ -1,8 +1,8 @@
 # Engineer & Side Project Junkie
 
-I currently work with Dow Jones to deliver innovative products leveraging cutting edge technologies, and my entrepreneurial drive. I often get to work with big data and cloud technologies to continuously deliver value for customers.  
+I currently work with Dynatron Software to deliver innovative products leveraging cutting-edge technologies, and my entrepreneurial drive. I often get to work with big data and cloud technologies to continuously deliver value for customers.  
 
-Right now exploring Europe as I am currently living in Barcelona as an Expat.
+Right now exploring NYC as I am currently splitting my time between NYC and Barcelona.
 
 ### Follow me here
 <a href="https://twitter.com/intent/follow?screen_name=dylankroy&tw_p=followbutton" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
