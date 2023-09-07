@@ -17,7 +17,7 @@ Right now exploring NYC as I am currently splitting my time between NYC and Barc
  - Cycling
  - Mead Making & Craft Beers
 
-I post frequently on on my [personal website](https://dylanroy.com/), and on [medium](https://medium.com/@dylanroy) please join my newletter [here](https://dylanroy.com/signup/).
+I post frequently on on my [personal website](https://dylanroy.com/), and on [medium](https://medium.com/@dylanroy) please join my newsletter [here](https://dylanroy.com/signup/).
 
 ### Favorite Technologies To Work With
 Scio/Beam, Spark, Docker, BigQuery, CloudBuild, Flask, Airflow
